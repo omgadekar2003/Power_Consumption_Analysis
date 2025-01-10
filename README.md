@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project focuses on analyzing power consumption data for multiple zones based on various environmental factors such as temperature, humidity, wind speed, and diffuse solar radiation. The analysis was carried out using a combination of data extraction, data cleaning, transformation, and visualization. The final results are presented through a dynamic report or dashboard created using Microsoft Excel.
+This project focuses on analyzing power consumption data for multiple zones based on various environmental factors such as temperature, humidity, wind speed, and diffuse solar radiation. The analysis was carried out using a combination of data extraction, data cleaning, transformation, and visualization. The final results are presented through a dynamic report or dashboard created using Microsoft Excel. Also explre this:([https://github.com/omgadekar2003/Power-Consumption-Prediction-Analysis])
 
 ## Table of Contents
 
